@@ -15,7 +15,7 @@
 
 ### 🎯 Actively:
 - Working with and learning: Jetpack Compose with Kotlin.
-- Playing with Godot (Solo 3D Game Development).
+- Playing around in Godot (Solo 3D Game Development).
 
 ### Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/talesofblvck)
