@@ -12,11 +12,6 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-
-### 🎯 Actively:
-- Working with and learning: Jetpack Compose with Kotlin.
-- Playing around in Godot (Solo 3D Game Development).
-
 ### Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/talesofblvck)
 [![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@coleblvck:nitro.chat)
