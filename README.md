@@ -1,4 +1,4 @@
-### Hi, I'm Cole.
+### Hi, I'm Cole
 #### Android || GNU Linux Developer & Enthusiast
 
 ### 🛠️ Tools and Skills
@@ -15,9 +15,9 @@
 
 ### 🎯 Actively:
 - Working with and learning: Jetpack Compose with Kotlin.
-- Solo 3D Game development with Godot.
+- Playing with Godot (Solo 3D Game Development).
 
-### Contact
+### Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/talesofblvck)
 [![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@coleblvck:nitro.chat)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coleblvck@gmail.com)
