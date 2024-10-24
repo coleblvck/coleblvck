@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Cole
 
-### Flutter & Android Developer | Backend Specialist | Python Fan
+### Software Developer | Python Fan
 
 🌟 I create smooth mobile experiences with **Flutter** and **Android**, backed by **backend** and **Python** skills.
 
